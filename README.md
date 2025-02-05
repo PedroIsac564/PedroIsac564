@@ -23,6 +23,12 @@ I am interested in data science, front-end development, and team collaboration.
   <img src="https://github.com/user-attachments/assets/cef7b1dc-d942-4e40-959d-f15cd46007ed" width='50px'/>
 </p>
 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/ff2a57d4-7c7f-4d97-b6ef-e40b238aed64" width='50px'/>
+  <img src="https://github.com/user-attachments/assets/e08d1bf7-a934-4883-9f74-cc491c07fa2a" width='50px'/>
+  <img src="https://github.com/user-attachments/assets/26f44348-7f4d-4895-a304-adeb55d3eb49" width='50px'/>
+</p>
+
 ## Follow my journey! 📫
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pedro-isac-9a0554274/)](https://www.linkedin.com/in/pedro-isac-9a0554274/)
