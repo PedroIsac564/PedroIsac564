@@ -20,6 +20,7 @@ I am interested in data science, front-end development, and team collaboration.
   <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" width='50px'/>
   <img src="https://github.com/user-attachments/assets/dfa57c3a-a6b6-47e8-b6c4-e9bd030f0093" width='50px'/>
   <img src="https://github.com/user-attachments/assets/e842eded-0b4e-4dca-89d6-7d81fbe723ad" width='50px'/>
+  <img src="https://github.com/user-attachments/assets/75092f7d-b4f3-41c8-81a7-9b21005f6461" width='50px'/>
   <img src="https://github.com/user-attachments/assets/2864719a-0ce0-4e91-8970-b81f20c2a99d" width='50px'/>
   <img src="https://github.com/user-attachments/assets/cef7b1dc-d942-4e40-959d-f15cd46007ed" width='50px'/>
 </p>
