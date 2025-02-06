@@ -14,18 +14,17 @@ I am interested in data science, front-end development, and team collaboration.
   <img src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png" width='50px'/>
   <img src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png" width='50px'/>
   <img src="https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png" width='50px'/>
+<img src="https://user-images.githubusercontent.com/25181517/121401671-49102800-c959-11eb-9f6f-74d49a5e1774.png" width='50px'/>
+  <img src="https://user-images.githubusercontent.com/25181517/121401671-49102800-c959-11eb-9f6f-74d49a5e1774.png" width='50px'/>
   <img src="https://user-images.githubusercontent.com/25181517/121401671-49102800-c959-11eb-9f6f-74d49a5e1774.png" width='50px'/>
   <img src="https://user-images.githubusercontent.com/25181517/183568594-85e280a7-0d7e-4d1a-9028-c8c2209e073c.png" width='50px'/>
   <img src="https://user-images.githubusercontent.com/25181517/183859966-a3462d8d-1bc7-4880-b353-e2cbed900ed6.png" width='50px'/>
   <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" width='50px'/>
   <img src="https://github.com/user-attachments/assets/dfa57c3a-a6b6-47e8-b6c4-e9bd030f0093" width='50px'/>
   <img src="https://github.com/user-attachments/assets/e842eded-0b4e-4dca-89d6-7d81fbe723ad" width='50px'/>
-  <img src="https://github.com/user-attachments/assets/75092f7d-b4f3-41c8-81a7-9b21005f6461" width='50px'/>
+  <img src="https://github.com/user-attachments/assets/7685ba0d-71b3-4c05-9187-86977b6e3c7a" width='75px'/>
   <img src="https://github.com/user-attachments/assets/2864719a-0ce0-4e91-8970-b81f20c2a99d" width='50px'/>
   <img src="https://github.com/user-attachments/assets/cef7b1dc-d942-4e40-959d-f15cd46007ed" width='50px'/>
-</p>
-
-<p align="center">
   <img src="https://github.com/user-attachments/assets/ff2a57d4-7c7f-4d97-b6ef-e40b238aed64" width='50px'/>
   <img src="https://github.com/user-attachments/assets/e08d1bf7-a934-4883-9f74-cc491c07fa2a" width='50px'/>
   <img src="https://github.com/user-attachments/assets/26f44348-7f4d-4895-a304-adeb55d3eb49" width='50px'/>
